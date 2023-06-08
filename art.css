@@ -1,0 +1,85 @@
+.arttitre{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image:url("images/pattern.png") ;
+    
+}
+
+.brossetitre{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+    
+}
+
+.hacksawtitre{
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.important{
+
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.frametitre{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.frametitre2{
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.painttitre{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+p{
+    font-family: Helvetica;  
+}
+
+h2{
+    font-family: Helvetica;
+}
+
+.finnishtitre{
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.frameprice{
+
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.finnishprice{
+
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
